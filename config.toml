@@ -1,0 +1,47 @@
+baseURL = 'https://rizqi.colte.dev/'
+languageCode = 'id-id'
+defaultContentLanguage = 'id-id'
+title = 'Rizqi'
+theme = 'hermit'
+rssLimit = 10
+pluralizeListTitles = false
+enableEmoji = true
+timeZone = 'Asia/Jakarta'
+
+[author]
+  name = 'Muhammad Rizqi Ramadhan'
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  homeSubtitle = 'Saya Muhammad Rizqi Ramadhan, ini adalah tempat untuk menampung semua tulisan kurang jelas saya'
+  # footerCopyright = ' &#183 <a href="https://instagram.com/mrizqirmdhn_">R</a>'
+
+[[params.social]]
+  name = 'instagram'
+  url = 'https://instagram.com/mrizqirmdhn_'
+
+[[params.social]]
+  name = 'github'
+  url = 'https://github.com/ZefianAlfian'
+
+[menu]
+  [[menu.main]]
+    name = 'Tulisan'
+    url = 'tulisan/'
+    weight = 10
+
+  [[menu.main]]
+    name = 'About'
+    url = 'about-rizqi/'
+    weight = 20
+
+[server]
+  [[server.redirects]]
+    force = true
+    from = '/instagram'
+    status = 200
+    to = 'https://instagram.com/mrizqirmdhn_'
