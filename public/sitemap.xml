@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rizqi.colte.dev/about/</loc>
+    <loc>https://rizqi.colte.dev/tulisan/circle/</loc>
+    <lastmod>2022-07-10T06:14:15+00:00</lastmod>
+  </url><url>
+    <loc>https://rizqi.colte.dev/</loc>
+    <lastmod>2022-07-10T06:14:15+00:00</lastmod>
+  </url><url>
+    <loc>https://rizqi.colte.dev/tulisan/</loc>
+    <lastmod>2022-07-10T06:14:15+00:00</lastmod>
+  </url><url>
+    <loc>https://rizqi.colte.dev/about-rizqi/</loc>
     <lastmod>2022-07-09T15:42:16+00:00</lastmod>
   </url><url>
     <loc>https://rizqi.colte.dev/tulisan/close-friends/</loc>
-    <lastmod>2022-07-08T14:51:22+00:00</lastmod>
-  </url><url>
-    <loc>https://rizqi.colte.dev/</loc>
-    <lastmod>2022-07-08T14:51:22+00:00</lastmod>
-  </url><url>
-    <loc>https://rizqi.colte.dev/tulisan/</loc>
     <lastmod>2022-07-08T14:51:22+00:00</lastmod>
   </url><url>
     <loc>https://rizqi.colte.dev/categories/</loc>
